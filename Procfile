@@ -1,0 +1,1 @@
+web: lactoveg.wsgi --log-file -
